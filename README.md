@@ -6,13 +6,10 @@ This is a **User Management API** built using **NestJS** and **PostgreSQL**. It 
 
 ##  **Features**
 - **NestJS Framework** (TypeScript)
-- **JWT Authentication**
-- **X-API-Key Authentication**
+- **API Authentication**
 - **PostgreSQL with TypeORM**
 - **Swagger API Documentation**
 - **Data Validation using Class Validator**
-- **Auto Timestamps (created_at, updated_at)**
-- **Password Hashing with Bcrypt**
 - **Database Migrations with TypeORM**
 
 ---
