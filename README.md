@@ -62,6 +62,7 @@ npm run start:dev
 ---
 
 **API Documentation**
+---
 Once the server is running, you can access Swagger API Documentation at:
 ```sh
 Swagger API Docs : http://localhost:3000/api/docs
