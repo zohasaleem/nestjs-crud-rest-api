@@ -60,6 +60,14 @@ npm run migration:run
 npm run start:dev
 ```
 ---
+**Authentication Method**
+---
+**X-API-Key Authentication**
+Use x-api-key as a header for API authentication and set its value to the API key defined in your .env file.
+```sh
+x-api-key: YOUR_API_KEY
+```
+---
 
 **API Documentation**
 ---
@@ -69,7 +77,3 @@ Swagger API Docs : http://localhost:3000/api/docs
 ```
 --- 
 
-**Authentication Methods**
-```sh
-X-API-Key Authentication: Use x-api-key: YOUR_API_KEY in headers.
-```
