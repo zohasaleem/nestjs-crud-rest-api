@@ -23,8 +23,8 @@ This is a **User Management API** built using **NestJS** and **PostgreSQL**. It 
 
  **Clone the Repository**
 ```sh
-git clone https://github.com/zohasaleem/nestjs-crud-rest-api
-cd nestjs-crud-rest-api
+git clone https://github.com/zohasaleem/nestjs-crud-rest-apis
+cd nestjs-crud-rest-apis
 ```
 
 **Install Dependencies**
