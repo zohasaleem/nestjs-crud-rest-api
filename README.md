@@ -1,4 +1,4 @@
-# 🚀 NestJS CRUD REST API
+# 🚀 NestJS - CRUD REST API
 
 This is a **User Management API** built using **NestJS** and **PostgreSQL**. It includes, **API key authentication**, and follows best practices with **TypeORM**, **DTOs**, and **Swagger API documentation**.
 
