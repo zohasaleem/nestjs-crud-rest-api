@@ -19,20 +19,25 @@ This is a **User Management API** built using **NestJS** and **PostgreSQL**. It 
 
 ##  Installation
 
+---
+
+ **Clone the Repository**
 ```sh
-### Clone the Repository
 git clone https://github.com/zohasaleem/nestjs-crud-rest-apis
 cd nestjs-crud-rest-api
+```
 
-
-### Install Dependencies
+**Install Dependencies**
+```sh
 npm install
+```
 
-
-###  Configure Environment Variables
+**Configure Environment Variables**
 Create a .env file in the project root and add the following:
+----
 
-###  Database Configuration
+**Database Configuration**
+```sh
 DATABASE_HOST=localhost
 DATABASE_PORT=5432
 DATABASE_USER=your_username
@@ -43,16 +48,23 @@ API_KEY=your_api_key
 
 ### Run Database Migrations
 npm run migration:run
+```
+---
 
-
-###  Start the Server
+**Start the Server**
+```sh
 npm run start:dev
+```
+---
 
-
-###  API Documentation
+**API Documentation**
 Once the server is running, you can access Swagger API Documentation at:
- Swagger API Docs : http://localhost:3000/api/docs
+```sh
+Swagger API Docs : http://localhost:3000/api/docs
+```
+--- 
 
-
-###  Authentication Methods
+**Authentication Methods**
+```sh
 X-API-Key Authentication: Use x-api-key: YOUR_API_KEY in headers.
+```
