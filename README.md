@@ -1,10 +1,10 @@
-# 🚀 NestJS User Management API
+# 🚀 NestJS CRUD REST API
 
-This is a **User Management API** built using **NestJS** and **PostgreSQL**. It includes **JWT authentication**, **API key authentication**, and follows best practices with **TypeORM**, **DTOs**, and **Swagger API documentation**.
+This is a **User Management API** built using **NestJS** and **PostgreSQL**. It includes, **API key authentication**, and follows best practices with **TypeORM**, **DTOs**, and **Swagger API documentation**.
 
 ---
 
-## ** Features**
+##  **Features**
 - **NestJS Framework** (TypeScript)
 - **JWT Authentication**
 - **X-API-Key Authentication**
@@ -17,16 +17,15 @@ This is a **User Management API** built using **NestJS** and **PostgreSQL**. It 
 
 ---
 
-## ** Installation**
+##  Installation
 
-### 1️ Clone the Repository
 ```sh
-
+### 1️ Clone the Repository
 git clone https://github.com/zohasaleem/nestjs-crud-rest-apis
 cd nestjs-crud-rest-api
 
 
-2️ Install Dependencies
+### 2️ Install Dependencies
 npm install
 
 
