@@ -33,8 +33,9 @@ npm install
 ```
 
 **Configure Environment Variables**
+---
 Create a .env file in the project root and add the following:
-----
+
 
 **Database Configuration**
 ```sh
@@ -45,8 +46,11 @@ DATABASE_PASSWORD=your_password
 DATABASE_NAME=your_database
 ### Authentication
 API_KEY=your_api_key
+```
+---
 
-### Run Database Migrations
+**Run Database Migrations**
+```sh
 npm run migration:run
 ```
 ---
