@@ -24,7 +24,7 @@ This is a **User Management API** built using **NestJS** and **PostgreSQL**. It 
  **Clone the Repository**
 ```sh
 git clone https://github.com/zohasaleem/nestjs-crud-rest-apis
-cd nestjs-crud-rest-api
+cd nestjs-crud-rest-apis
 ```
 
 **Install Dependencies**
@@ -62,7 +62,7 @@ npm run start:dev
 ---
 **Authentication Method**
 ---
-**X-API-Key Authentication**
+**X-API-Key Authentication: **
 Use x-api-key as a header for API authentication and set its value to the API key defined in your .env file.
 ```sh
 x-api-key: YOUR_API_KEY
